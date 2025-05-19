@@ -1,0 +1,62 @@
+**Untuk menyimpan rencana pengembangan game Space Invaders ke file TXT**, saya akan membuat struktur yang rapi dengan fitur-fitur yang bisa dikembangkan selanjutnya. Berikut isi file `roadmap.txt` yang bisa Anda simpan:
+
+```txt
+# SPACE INVADERS - DEVELOPMENT ROADMAP (Python Pygame)
+
+## FITUR YANG SUDAH ADA
+- Player movement (kiri/kanan)
+- Penembakan dasar
+- Alien spawn acak dari atas
+- Sistem skor
+- Game over saat kena alien
+
+## FITUR YANG AKAN DITAMBAH (SHORT-TERM)
+[ ] Sistem nyawa (3 hearts) 
+[ ] Jenis alien berbeda (warna/kecepatan)
+[ ] Power-ups:
+    - Triple shot
+    - Shield sementara
+[ ] Menu awal (Start/Quit)
+[ ] Highscore system (save ke file)
+
+## FITUR ADVANCED (LONG-TERM)
+[ ] Boss battle tiap 5 level
+[ ] Particle effects (ledakan alien)
+[ ] Scroll background paralax
+[ ] Animasi sprite (player & alien)
+[ ] Soundtrack & SFX
+
+## TECHNICAL DEBT
+- Optimasi collision detection
+- Refactor code ke OOP yang lebih clean
+- Error handling asset loading
+
+## CATATAN IDE TAMBAHAN
+- Alien bisa tembak balik
+- Drop item ketika alien mati
+- Level progression (makin banyak alien)
+- Special attack (bomb area)
+
+## ASSETS YANG DIBUTUHKAN
+- Sprite sheet player/alien
+- Sound effects (tembak, ledakan)
+- Background music loop
+- Font retro pixel
+
+## REFERENSI
+- Pygame docs: https://www.pygame.org/docs/
+- OpenGameArt (free assets): https://opengameart.org/
+- Tutorial: https://realpython.com/pygame-a-primer/
+```
+
+**Cara menyimpan:**
+1. Buat file baru bernama `roadmap.txt`
+2. Copy-paste isi di atas
+3. Beri tanda `[x]` untuk fitur yang sudah selesai
+
+**Tips:**
+- Update file ini setiap menambah fitur baru
+- Bagi task besar menjadi sub-task kecil
+- Prioritaskan fitur yang penting dulu (game loop dasar > grafis > suara)
+
+Mau saya detailkan salah satu bagian atau bikin versi markdown yang lebih fancy? 😊
