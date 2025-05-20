@@ -29,7 +29,7 @@ pip install pygame
 3. Clone repository ini:
 
 ```
-git clone https://github.com/username/space-invaders-pro-python.git
+git clone https://github.com/FariNoveri/space-invaders-pro-python.git
 ```
 
 4. Jalankan game:
