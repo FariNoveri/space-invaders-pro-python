@@ -1,4 +1,4 @@
-# Space Invaders Pro Python (Beta)
+# Space Invaders Pro Python
 
 **Space Invaders Pro Python** adalah game Space Invaders versi sederhana dan beta yang dibuat menggunakan Python dan Pygame. Game ini cocok untuk pemula yang ingin belajar dasar-dasar pemrograman game seperti kontrol pemain, musuh, peluru, serta peningkatan tingkat kesulitan secara dinamis.
 
@@ -69,7 +69,3 @@ Jika ada pertanyaan atau saran, silakan hubungi saya di email: [cahayalunamahara
 
 Terima kasih telah mencoba **Space Invaders Pro Python**!
 
-```
-
-Kalau kamu ingin saya sesuaikan dengan style tertentu atau ingin ditambahkan bagian lain, tinggal bilang saja!
-```
