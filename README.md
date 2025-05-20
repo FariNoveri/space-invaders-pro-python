@@ -1,6 +1,3 @@
-Berikut contoh **README.md** lengkap untuk repository **space-invaders-pro-python** dalam format Markdown:
-
-````markdown
 # Space Invaders Pro Python (Beta)
 
 **Space Invaders Pro Python** adalah game Space Invaders versi sederhana dan beta yang dibuat menggunakan Python dan Pygame. Game ini cocok untuk pemula yang ingin belajar dasar-dasar pemrograman game seperti kontrol pemain, musuh, peluru, serta peningkatan tingkat kesulitan secara dinamis.
@@ -25,19 +22,19 @@ Berikut contoh **README.md** lengkap untuk repository **space-invaders-pro-pytho
 1. Pastikan Python 3 sudah terpasang di komputer Anda.
 2. Install modul Pygame:
 
-```bash
+```
 pip install pygame
 ````
 
 3. Clone repository ini:
 
-```bash
+```
 git clone https://github.com/username/space-invaders-pro-python.git
 ```
 
 4. Jalankan game:
 
-```bash
+```
 python game.py
 ```
 
