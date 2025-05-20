@@ -63,7 +63,10 @@ Proyek ini menggunakan lisensi MIT. Silakan lihat file [LICENSE](LICENSE) untuk 
 
 ## Kontak
 
-Jika ada pertanyaan atau saran, silakan hubungi saya di email: [cahayalunamaharani1@gmail.com](mailto:cahayalunamaharani1@gmail.com)
+Jika ada pertanyaan atau saran, silakan hubungi saya:
+
+- 📧 Email: cahayalunamaharani1@gmail.com  
+- 📸 Instagram: [@fariinoveri](https://www.instagram.com/fariinoveri)
 
 ---
 
